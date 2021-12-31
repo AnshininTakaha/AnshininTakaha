@@ -11,12 +11,19 @@
 - ⭐ Incumbency embedded worker(Linux&Microcontroller), VR enthusiasts,  Amateur modeler(VRChat Creator).
 - 💬 Ask me about C/C++, Embedded (Linux&Microcontroller), Unity, Modeling(3dmax&blender) and my projects on [759589736@qq.com](mailto:759589736@qq.com)
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 Tech Stack
 
 - 💻 &#160;
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![Embedded](https://img.shields.io/badge/-Arm-333333?style=flat&logo=Arm&logoColor=FCC624)
-- 🔧 &#160;
+- Working about of drone base on Linux & Microcontroller and DJI SDK(PSDK & OSDK).
+- Amateur research in VR controlling(Base on HTC-VIVE & Index)
+- Amateur research in Modeling and Rendering(Base on 3dmax,blender and unity). ACAA Modeler Certificate.
+- Proficient in using Linux shell command rm-rf and windows power on and off.
 
-### 关于我
+### State
+<img align="down" src="https://github-readme-stats.vercel.app/api?username=AnshininTakaha&show_icons=true&hide_title=false&locale=cn" />
+<img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshininTakaha&layout=compact&hide_border=true&langs_count=10" />
+
+
+### 📌About Me
+
 
