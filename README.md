@@ -7,7 +7,7 @@
 
 - A Robot Engineering Undergraduate Student.
 - 🌱 Currently working in Tianhe, China.
-- ⭐ Incumbency embedded worker(Linux&Microcontroller), VR enthusiasts,  Amateur modeler(VRChat Creater).
+- ⭐ Incumbency embedded worker(Linux&Microcontroller), VR enthusiasts,  Amateur modeler(VRChat Creator).
 - 💬 Ask me about C/C++, Embedded (Linux&Microcontroller), Unity, Modeling(3dmax&blender) and my projects on [759589736@qq.com](mailto:759589736@qq.com)
 
 ### 🛠 技术栈 | Tech Stack
