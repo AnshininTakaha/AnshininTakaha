@@ -14,7 +14,7 @@
 
 - 💻 &#160;
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![Embedded](https://img.shields.io/badge/-Arm-333333?style=flat&logo=Linux&logoColor=FCC624)
+![Embedded](https://img.shields.io/badge/-Arm-333333?style=flat&logo=Arm&logoColor=FCC624)
 - 🔧 &#160;
 
 ### 关于我
