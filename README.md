@@ -15,8 +15,8 @@
 
 ### 🛠 Tech Stack
 
-- Working about of drone base on Linux & Microcontroller and DJI SDK(PSDK & OSDK).
-- Amateur research in VR controlling(Base on HTC-VIVE & Index).
+- Working about of drone base on Linux & Microcontroller with DJI SDK(PSDK & OSDK), DJI Livox Lidar.
+- Amateur research in VR controlling(Base on HTC-VIVE & Index) base on 3D Charaters Tracking-controll and Tracking action analysis.
 - Amateur research in Modeling and Rendering(Base on 3dmax,blender and unity). ACAA Modeler Certificate.
 
 ### 📌State
