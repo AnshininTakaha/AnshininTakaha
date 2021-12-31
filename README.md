@@ -13,6 +13,7 @@
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160;
+![Linux](https://img.shields.io/badge/Linux-Linux-brightgreen?logo=linux)
 - 🔧 &#160;
 
 ### 关于我
