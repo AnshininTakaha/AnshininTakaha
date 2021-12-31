@@ -1,6 +1,6 @@
 ### o(^▽^)o
 
-![](http://antzuhl.cn:4000/get/@AnshininTakaha.readme)
+![qwq](http://antzuhl.cn:4000/get/@AnshininTakaha.readme)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### AnshininTakaha
