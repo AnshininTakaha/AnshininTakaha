@@ -13,11 +13,9 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &#160;
 - Working about of drone base on Linux & Microcontroller and DJI SDK(PSDK & OSDK).
-- Amateur research in VR controlling(Base on HTC-VIVE & Index)
+- Amateur research in VR controlling(Base on HTC-VIVE & Index).
 - Amateur research in Modeling and Rendering(Base on 3dmax,blender and unity). ACAA Modeler Certificate.
-- Proficient in using Linux shell command rm-rf and windows power on and off.
 
 ### State
 <img align="down" src="https://github-readme-stats.vercel.app/api?username=AnshininTakaha&show_icons=true&hide_title=false&locale=cn" />
