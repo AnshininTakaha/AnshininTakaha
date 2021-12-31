@@ -1,9 +1,10 @@
-### o(^▽^)o
+### AnshininTakaha
 
-![qwq](http://antzuhl.cn:4000/get/@AnshininTakaha.readme)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### AnshininTakaha
+<h4 align='center'>
+  Embedded | Linux & Microcontroller Engineer
+</h4>
 
 - A Robot Engineering Undergraduate Student.
 - 🌱 Currently working in Tianhe, China.
@@ -17,8 +18,5 @@
 ![Embedded](https://img.shields.io/badge/-Arm-333333?style=flat&logo=Arm&logoColor=FCC624)
 - 🔧 &#160;
 
-### 正在做的事情
-- 摸鱼
-
-
 ### 关于我
+
