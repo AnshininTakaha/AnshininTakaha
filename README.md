@@ -3,19 +3,20 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <h4 align='center'>
-  Embedded | Linux & Microcontroller Engineer
+  Embedded | Linux & Microcontroller Engineer | 3D Modeler | Drum player
 </h4>
 
 
 - A Robot Engineering Undergraduate Student.
-- 🌱 Currently working in Tianhe, China.
-- ⭐ Incumbency embedded worker(Linux&Microcontroller), VR enthusiasts,  Amateur modeler(VRChat Charaters Creator).
-- 💬 Ask me about C/C++, Embedded (Linux&Microcontroller), Unity, Modeling(3dmax&blender) and my projects on [759589736@qq.com](mailto:759589736@qq.com)
+- 🌱 Currently working in Shenzhen, China.
+- ⭐ Incumbency embedded worker(Linux&Microcontroller), VR enthusiasts,  3D Amateur modeler(VRChat Charaters Creator).
+- 💬 Ask me about C/C++, Embedded (Linux or Microcontroller), Unity, Modeling(3dmax or blender) and my projects on [759589736@qq.com](mailto:759589736@qq.com)
 
 
 ### 🛠 Tech Stack
 
 - Working about of drone base on Linux & Microcontroller with DJI SDK(PSDK & OSDK), DJI Livox Lidar.
+- Working about of robot about Home intelligence and companionship.
 - Amateur research in VR controlling(Base on HTC-VIVE & Index) base on 3D Charaters Tracking-controll and Tracking action analysis.
 - Amateur research in Modeling and Rendering(Base on 3dmax,blender and unity). ACAA Modeler Certificate.
 
@@ -25,6 +26,6 @@
 
 
 ### ☕About Me
-- Personal Blog [https://anshinintakaha.github.io/] Stack with Daily, Skills about Embedded, VRChat Photos, Modeling Skills.
+- Personal Blog [https://anshinintakaha.github.io/] Stack with Daily, Skills about Embedded, VRChat Photos, Modeling Skills.(Pending)
 - Contact with me by Email [759589736@qq.com](mailto:759589736@qq.com)
 - Discord QQ Replenish as soon as possible...
