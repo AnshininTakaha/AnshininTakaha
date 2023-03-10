@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 <h4 align='center'>
-  Embedded | Linux & Microcontroller Engineer | 3D Modeler | Drum player
+  Embedded | Linux & Microcontroller Engineer | 3D Modeler | VR Function Creater | Drum && Piano && Gittar player 
 </h4>
 
 
