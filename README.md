@@ -26,6 +26,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshininTakaha&layout=compact&hide_border=true&langs_count=10" />
 
 
+
+
+
+
 ### ☕About Me
 - Personal Blog [http://ukouwu-aphrodite.net/] Stack with Daily, Skills about Embedded, VRChat Photos, Modeling Skills.(Pending now and this is my new blog.)
 - Contact with me by Email [759589736@qq.com](mailto:759589736@qq.com)
