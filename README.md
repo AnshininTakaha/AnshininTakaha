@@ -15,8 +15,9 @@
 
 ### 🛠 Tech Stack
 
-- Working about of drone base on Linux & Microcontroller with DJI SDK(PSDK & OSDK), DJI Livox Lidar.
+- Working about home robots related to pet care and elderly care.
 - Working about of robot about Home intelligence and companionship.
+- Used to work related to drone base on Linux & Microcontroller with DJI SDK(PSDK & OSDK), DJI Livox Lidar.
 - Amateur research in VR controlling(Base on HTC-VIVE & Index) base on 3D Charaters Tracking-controll and Tracking action analysis.
 - Amateur research in Modeling and Rendering(Base on 3dmax,blender and unity). ACAA Modeler Certificate.
 
@@ -26,6 +27,6 @@
 
 
 ### ☕About Me
-- Personal Blog [https://anshinintakaha.github.io/] Stack with Daily, Skills about Embedded, VRChat Photos, Modeling Skills.(Pending)
+- Personal Blog [http://ukouwu-aphrodite.net/] Stack with Daily, Skills about Embedded, VRChat Photos, Modeling Skills.(Pending now and this is my new blog.)
 - Contact with me by Email [759589736@qq.com](mailto:759589736@qq.com)
 - Discord QQ Replenish as soon as possible...
