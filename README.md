@@ -22,7 +22,7 @@
 - Amateur research in Modeling and Rendering(Base on 3dmax,blender and unity). ACAA Modeler Certificate.
 
 ### 📌State
-<img align="down" src="https://github-readme-stats.vercel.app/api?username=AnshininTakaha&show_icons=true&hide_title=false&locale=cn" />
+#<img align="down" src="https://github-readme-stats.vercel.app/api?username=AnshininTakaha&show_icons=true&hide_title=false&locale=cn" />
 <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshininTakaha&layout=compact&hide_border=true&langs_count=10" />
 
 
